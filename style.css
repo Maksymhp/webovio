@@ -149,7 +149,7 @@ h1 {
 .brands {
     display: flex;
     align-items: center;
-    justify-content: ;
+    justify-content: space-between ;
     padding: 6rem 13rem 4rem 6rem;
     max-width: 100%;
     background-color: #fff;
